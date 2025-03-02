@@ -1,3 +1,15 @@
+
+n.n.n / 2025-03-02
+==================
+
+
+
+v1 / 2025-02-22
+===============
+
+  * lab 1 addaded
+  * feat(main): make course structure
+  * Initial commit
 ## [1.0.10](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.9...v1.0.10) (2025-02-10)
 
 
