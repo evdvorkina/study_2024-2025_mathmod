@@ -1,4 +1,27 @@
 
+v2.0.0 / 2025-03-08
+===================
+
+  * feat(lab2): lab2 was added
+  * feat(main): CHANGELOG.md for v1.1.0
+
+v1.1.0 / 2025-03-07
+===================
+
+  * feat(presentation): add presentation
+
+v1.0.0 / 2025-03-02
+===================
+
+  * feat(main): updating CHANGELOG for v1
+
+v1 / 2025-02-22
+===============
+
+  * lab 1 addaded
+  * feat(main): make course structure
+  * Initial commit
+
 v1.1.0 / 2025-03-07
 ===================
 
