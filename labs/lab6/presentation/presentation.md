@@ -7,6 +7,7 @@ author:
   - Дворкина Е. В.
 institute:
   - Российский университет дружбы народов, Москва, Россия
+date: 18 марта 2025
 
 ## i18n babel
 babel-lang: russian
