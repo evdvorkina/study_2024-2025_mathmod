@@ -1,4 +1,64 @@
 
+v8.0.0 / 2025-03-18
+===================
+
+  * feat(lab8): add lab8
+
+v7.0.0 / 2025-03-18
+===================
+
+  * feat(lab7): lab7 was added
+  * fix(labs): fixed date in presentations
+
+v6.0.0 / 2025-03-18
+===================
+
+  * feat(lab6): lab6 was added
+
+v5.0.0 / 2025-03-18
+===================
+
+  * feat(lab5): add lab5
+  * feat(main): CHANGELOG for v4.0.0
+
+v4.0.0 / 2025-03-17
+===================
+
+  * feat(main): lab4 was added
+  * feat(main): changelog for v3.0.0
+
+v3.0.0 / 2025-03-17
+===================
+
+  * feat(lab3): lab3 was added
+  * feat(labs): programs for labs was added
+  * feat(labs): programs for labs was added
+  * feat(lab2): lab2 was added
+  * feat(main): CHANGELOG for v2.0.0
+
+v2.0.0 / 2025-03-08
+===================
+
+  * feat(lab2): lab2 was added
+  * feat(main): CHANGELOG.md for v1.1.0
+
+v1.1.0 / 2025-03-07
+===================
+
+  * feat(presentation): add presentation
+
+v1.0.0 / 2025-03-02
+===================
+
+  * feat(main): updating CHANGELOG for v1
+
+v1 / 2025-02-22
+===============
+
+  * lab 1 addaded
+  * feat(main): make course structure
+  * Initial commit
+
 n.n.n / 2025-03-17
 ==================
 
